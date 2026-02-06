@@ -43,8 +43,8 @@ Tarea_Modulo12/
 
 ###  Clonar el repositorio
 ```bash
-git clone https://github.com/tu_usuario/odoo-etl-centros.git
-cd odoo-etl-centros
+git clone https://github.com/mcs0056/Tarea_Modulo12.git
+cd Tarea_Modulo12
 ```
 
 ### Importar dependencias
