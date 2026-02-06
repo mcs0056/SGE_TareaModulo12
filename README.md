@@ -21,7 +21,7 @@ El objetivo es automatizar la carga de datos externos en el ERP Odoo utilizando 
 
 ## Estructura del Proyecto
 Tarea_Modulo12/
-├── Capturas
+├── Capturas/
 ├   ├── consola_python.png
 ├   └── consultaSQL.png
 ├── docker-compose.yaml
