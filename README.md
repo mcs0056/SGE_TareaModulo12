@@ -1,5 +1,5 @@
 # SGE_TareaModulo12
-# Práctica Evaluable – Automatización de Datos en Odoo con Python
+# Automatización de Datos en Odoo con Python
 
 ## Descripción del Proyecto
 Este proyecto consiste en el desarrollo de un script en Python que realiza un proceso **ETL (Extracción, Transformación y Carga)** para importar un listado de centros educativos desde un archivo CSV a una base de datos PostgreSQL utilizada por Odoo, ejecutándose en contenedores Docker.
